@@ -1,0 +1,140 @@
+/* rainbow-color-text - rainbow color text.
+Copyright (C) 2024-2025  Yu Hongbo, CNOCTAVE
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>. */
+.rainbow-color-text-jet {
+    background-image: -webkit-linear-gradient(#0000ff, #0080ff, #00ffff, #80ff80, #ffff00, #ff8000, #ff0000, #800000);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-viridis {
+    background-image: -webkit-linear-gradient(#440154, #46327e, #365b8c, #27938e, #1fa187, #49c16d, #9ed939, #fde724);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-turbo {
+    background-image: -webkit-linear-gradient(#30123b, #4676ee, #1bcfd5, #62fc6b, #d1e934, #fe9b2d, #da3907, #7a0402);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-cubehelix {
+    background-image: -webkit-linear-gradient(#000000, #1a2441, #1a6045, #697a30, #c77a7b, #cda2e0, #c5e0f1, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-hsv {
+    background-image: -webkit-linear-gradient(#ff0000, #ffbf00, #80ff00, #00ff40, #00ffff, #0040ff, #8000ff, #ff00bf);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-rainbow- {
+    background-image: -webkit-linear-gradient(#ff0000, #ff5b00, #ffb600, #daff00, #24ff00, #006d91, #3000ff, #aa00ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-hot {
+    background-image: -webkit-linear-gradient(#550000, #aa0000, #ff0000, #ff5500, #ffaa00, #ffff00, #ffff80, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-cool {
+    background-image: -webkit-linear-gradient(#00ffff, #24daff, #48b6ff, #6d91ff, #916dff, #b648ff, #da24ff, #ff00ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-spring {
+    background-image: -webkit-linear-gradient(#ff00ff, #ff24da, #ff48b6, #ff6d91, #ff916d, #ffb648, #ffda24, #ffff00);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-summer {
+    background-image: -webkit-linear-gradient(#007f66, #249166, #48a366, #6db666, #91c866, #b6da66, #daec66, #ffff66);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-autumn {
+    background-image: -webkit-linear-gradient(#ff0000, #ff2400, #ff4800, #ff6d00, #ff9100, #ffb600, #ffda00, #ffff00);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-winter {
+    background-image: -webkit-linear-gradient(#0000ff, #0024ec, #0048da, #006dc8, #0091b6, #00b6a3, #00da91, #00ff7f);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-gray {
+    background-image: -webkit-linear-gradient(#000000, #242424, #484848, #6d6d6d, #919191, #b6b6b6, #dadada, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-bone {
+    background-image: -webkit-linear-gradient(#00000a, #1f1f35, #3f3f5f, #5f6a7f, #7f949f, #9fbfbf, #cfdfdf, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-copper {
+    background-image: -webkit-linear-gradient(#000000, #2d1c12, #5b3824, #885536, #b67148, #e38e5a, #ffaa6c, #ffc77e);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-pink {
+    background-image: -webkit-linear-gradient(#550000, #8f4e4e, #b86f6f, #c8a088, #d7c69d, #e5e5af, #f2f2db, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-ocean {
+    background-image: -webkit-linear-gradient(#000000, #000024, #000048, #00006d, #003f91, #007fb6, #7fbfda, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-colorcube {
+    background-image: -webkit-linear-gradient(#000000, #242424, #484848, #6d6d6d, #919191, #b6b6b6, #dadada, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-flag {
+    background-image: -webkit-linear-gradient(#ff0000, #ffffff, #0000ff, #000000, #ff0000, #ffffff, #0000ff, #000000);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-lines {
+    background-image: -webkit-linear-gradient(#0071bc, #d85218, #ecb01f, #7d2e8d, #76ab2f, #4cbded, #a1132e, #0071bc);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.rainbow-color-text-prism {
+    background-image: -webkit-linear-gradient(#ff0000, #ff8000, #ff0000, #00ff00, #0000ff, #aa00ff, #ff0000, #ff8000);
+    -webkit-background-clip: text;
+    color: transparent;
+}
