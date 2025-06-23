@@ -1,0 +1,29 @@
+{
+  "name": "rainbow-color-text",
+  "version": "1.0.0",
+  "description": "rainbow-color-text - rainbow color text.",
+  "main": "rainbow-color-text.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CNOCTAVE/rainbow-color-text.git"
+  },
+  "keywords": [
+    "rainbow",
+    "color",
+    "text",
+    "CNOCTAVE",
+    "Yu Hongbo"
+  ],
+  "author": "CNOCTAVE, Yu Hongbo",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/CNOCTAVE/rainbow-color-text/issues"
+  },
+  "homepage": "https://github.com/CNOCTAVE/rainbow-color-text#readme"
+}
