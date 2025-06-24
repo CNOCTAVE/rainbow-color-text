@@ -43,7 +43,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>. */
     color: transparent;
 }
 
-.rainbow-color-text-rainbow- {
+.rainbow-color-text-rainbow {
     background-image: -webkit-linear-gradient(#ff0000, #ff5b00, #ffb600, #daff00, #24ff00, #006d91, #3000ff, #aa00ff);
     -webkit-background-clip: text;
     color: transparent;
